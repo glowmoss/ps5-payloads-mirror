@@ -256,7 +256,7 @@ def update_payloads(target_name=None):
         source = item.get("source")
         if not source:
             # Handle ps5debug case
-            if item.get("name") == "ps5debug":
+            if item.get("name") == "A53 Ppr Install 1140":
                 if not item["url"].startswith(BASE_URL):
                      item["url"] = f"{BASE_URL}/{item['filename']}"
                      updated = True
