@@ -12,6 +12,31 @@
     "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
   },
   {
+    "name": "ShadowMountPlus",
+    "filename": "ShadowMountPlus_1.7beta4.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta4.elf",
+    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/ShadowMountPlus_1.7beta4.zip",
+    "extract_file": "shadowmountplus.elf",
+    "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
+    "last_update": "2026-10-03",
+    "version": "1.7beta4",
+    "category": "Utilities & Tools",
+    "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
+  },
+  {
+    "name": "onionHEN",
+    "filename": "onionHEN_v0.9.0-beta1.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0-beta1.elf",
+    "source": "https://github.com/aydencharles/onionHEN/releases",
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta1/OnionHEN.elf",
+    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
+    "last_update": "2026-10-03",
+    "version": "v0.9.0-beta1",
+    "category": "System & Jailbreak",
+    "checksum": "c587a0e92158d0a64f1c78e10a9743709b3ab194bee2d4cf8ffdd3147c3a7530"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v5.41.0.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.41.0.elf",
@@ -34,19 +59,6 @@
     "version": "v0.17.2",
     "category": "Utilities & Tools",
     "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
-  },
-  {
-    "name": "ShadowMountPlus",
-    "filename": "ShadowMountPlus_1.7beta3.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta3.elf",
-    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta3/ShadowMountPlus_1.7beta3.zip",
-    "extract_file": "shadowmountplus.elf",
-    "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-    "last_update": "2026-10-01",
-    "version": "1.7beta3",
-    "category": "Utilities & Tools",
-    "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a"
   },
   {
     "name": "WebKit-Autoloader-Installer",
@@ -156,18 +168,6 @@
     "version": "v1.9",
     "category": "Utilities & Tools",
     "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
-  },
-  {
-    "name": "onionHEN",
-    "filename": "onionHEN_v0.0.13.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.0.13.elf",
-    "source": "https://github.com/aydencharles/onionHEN/releases",
-    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
-    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-    "last_update": "2026-09-11",
-    "version": "v0.0.13",
-    "category": "System & Jailbreak",
-    "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
   },
   {
     "name": "ps5-linux-loader",
