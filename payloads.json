@@ -171,7 +171,7 @@
   {
     "name": "A53 Ppr Install 1140 20.09",
     "filename": "A53 Ppr Install 1140 20.09.elf",
-    "url": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/A53 Ppr Install 1140 20.09.elf",
     "source": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf",
     "source_direct": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf",
     "description": "A53 Ppr Install for 1140 needed to install FKPKGs",
