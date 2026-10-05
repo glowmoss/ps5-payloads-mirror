@@ -42,7 +42,7 @@ def get_latest_release(domain, owner, repo):
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
             release = json.loads(result.stdout)
             if release:
-            return release[0]
+                return release[0]
             return None
         else:
             api_url = f"https://{domain}/api/v1/repos/{owner}/{repo}/releases"
@@ -50,7 +50,7 @@ def get_latest_release(domain, owner, repo):
             with urllib.request.urlopen(req) as response:
                 release = json.loads(response.read().decode('utf-8'))
                 if release:
-                return release[0]
+                    return release[0]
                 return None
     except Exception as e:
         print(f"Error fetching {domain}/{owner}/{repo}: {e}")
