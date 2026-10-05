@@ -220,10 +220,11 @@
     "name": "A53 Ppr Install 1140",
     "filename": "a53_ppr_install_1140_20.09.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/a53_ppr_install_1140_20.09.elf",
-    "source": "https://github.com/xEasy4Breezy/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf",
+    "source": "https://github.com/xEasy4Breezy/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr",
     "description": "Needed for FPKGs on 11.40",
     "last_update": "2025-07-14",
     "version": "v20.09",
+    "category": "System & Jailbreak",
     "checksum": ""
   }
 ]
