@@ -25,7 +25,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 | **Lapy-JB-Daemon** | `v1.2` | Standalone homebrew jailbreak daemon for PS5. Mimics etaHEN's jailbreak-on-demand API. | `2026-06-01` | [Source](https://github.com/itsPLK/PS5-Lapy-JB-Daemon/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Lapy-JB-Daemon_v1.2.elf) |
 | **BackPork** | `0.1` | Lets you sideload system libraries into PS5 games | `2026-04-30` | [Source](https://github.com/BestPig/BackPork/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/BackPork_0.1.elf) |
 | **etaHEN** | `2.5B` | AIO HEN payload | `2025-12-25` | [Source](https://github.com/etaHEN/etaHEN/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/etaHEN_2.5B.bin) |
-| **A53 Ppr Install 1140** | `v20.09` | Needed for FPKGs on 11.40 | `2025-07-14` | [Source](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/a53_ppr_install_1140_20.09.elf) |
+| **A53 Ppr Install 1140** | `v20.09` | Needed for FPKGs on 11.40 | `2025-07-14` | [Source](https://github.com/xEasy4Breezy/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/a53_ppr_install_1140_20.09.elf) |
 <!-- PAYLOADS_END -->
 
 ## Support & Suggestions
