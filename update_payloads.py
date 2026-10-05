@@ -38,14 +38,20 @@ def get_repo_info(url):
 def get_latest_release(domain, owner, repo):
     try:
         if domain == "github.com":
-            cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/latest"]
+            cmd = ["gh", "api", f"repos/{owner}/{repo}/releases"]
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
-            return json.loads(result.stdout)
+            release = json.loads(result.stdout)
+            if release:
+            return release[0]
+            return None
         else:
-            api_url = f"https://{domain}/api/v1/repos/{owner}/{repo}/releases/latest"
+            api_url = f"https://{domain}/api/v1/repos/{owner}/{repo}/releases"
             req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req) as response:
-                return json.loads(response.read().decode('utf-8'))
+                release = json.loads(response.read().decode('utf-8'))
+                if release:
+                return release[0]
+                return None
     except Exception as e:
         print(f"Error fetching {domain}/{owner}/{repo}: {e}")
         return None
