@@ -350,5 +350,45 @@
   "ShadowMountPlus_1.7beta3.elf": {
     "download_count": 0,
     "deleted_at": "2026-10-05"
+  },
+  "BFpilot_v0.4.4.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "ftpsrv-drakmor_1.16-ng-stable.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "ftpsrv_v0.21.1.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "klogsrv_v0.9.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "ps5-linux-loader_v2.5.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "ps5-web-file-manager_v1.9.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "ps5debug-NG_1.3.2.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "shsrv_v0.20.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "websrv_v0.34.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
+  },
+  "zftpd_v1.6.0.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-05"
   }
 }

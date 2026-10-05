@@ -61,18 +61,6 @@
     "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
   },
   {
-    "name": "Pizza-Hen",
-    "filename": "PIZZA-HEN-v2.00.elf",
-    "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
-    "source": "https://github.com/Michele-M-Media/PIZZA-HEN/releases",
-    "source_direct": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
-    "description": "PIZZA HEN is an experimental all-in-one PS5 homebrew environment maintained by Michele Media.",
-    "last_update": "2026-09-30",
-    "version": "v0.5.2",
-    "category": "System & Jailbreak",
-    "checksum": ""
-  },
-  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.5.2.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.5.2.elf",
@@ -83,6 +71,18 @@
     "version": "v0.5.2",
     "category": "Loaders",
     "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
+  },
+  {
+    "name": "pegasus-dl",
+    "filename": "pegasus-dl_v1.10.1.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/pegasus-dl_v1.10.1.elf",
+    "source": "https://github.com/pegasus-ps5/pegasus-dl",
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf",
+    "description": "PS5 payload that serves a local web interface for downloading and installing game or application package data.",
+    "last_update": "2026-09-30",
+    "version": "v1.10.1",
+    "category": "Installer",
+    "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
   },
   {
     "name": "pldmgr",
@@ -145,6 +145,30 @@
     "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1"
   },
   {
+    "name": "APR Emu Updater",
+    "filename": "APR Emu Updater_v2.0.6.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/APR Emu Updater_v2.0.6.elf",
+    "source": "https://github.com/tsuramatsu1/apr-emu-updater",
+    "source_direct": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
+    "description": "PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console.",
+    "last_update": "2026-08-29",
+    "version": "v2.0.6",
+    "category": "Installer",
+    "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+  },
+  {
+    "name": "Pizza-Hen",
+    "filename": "Pizza-Hen_v2.00.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Pizza-Hen_v2.00.elf",
+    "source": "https://github.com/Michele-M-Media/PIZZA-HEN/releases",
+    "source_direct": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
+    "description": "PIZZA HEN is an experimental all-in-one PS5 homebrew environment maintained by Michele Media.",
+    "last_update": "2026-08-24",
+    "version": "v2.00",
+    "category": "System & Jailbreak",
+    "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
+  },
+  {
     "name": "nanoDNS",
     "filename": "nanoDNS_0.4.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.4.elf",
@@ -179,28 +203,6 @@
     "version": "0.1",
     "category": "Utilities & Tools",
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
-  },
-  {
-    "name": "APR Emu Updater",
-    "filename": "apr_emu_updater_v2.0.6.elf",
-    "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
-    "description": "PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console.",
-    "version": "v2.0.6",
-    "category": "Installer",
-    "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122",
-    "last_update": "2026-08-29 17:54:19 UTC+8",
-    "source": "https://github.com/tsuramatsu1/apr-emu-updater"
-  },
-  {
-    "name": "pegasus-dl",
-    "filename": "pegasus_dl.elf",
-    "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf",
-    "description": "PS5 payload that serves a local web interface for downloading and installing game or application package data.",
-    "version": "v1.10.1",
-    "category": "Installer",
-    "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138",
-    "last_update": "2026-09-30 18:06:45 UTC+8",
-    "source": "https://github.com/pegasus-ps5/pegasus-dl"
   },
   {
     "name": "etaHEN",
