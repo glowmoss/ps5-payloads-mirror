@@ -138,7 +138,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 
 ## Support & Suggestions
 
-If you have suggestions for a new payload to be added or if there's an important issue with some payload, please report them in the [Issues section](https://github.com/itsPLK/ps5-payloads-mirror/issues/new).
+This is just a fork I edited for myself since a pre release wasn't on the main one along with a couple of other payloads. Feel free to use it though
 """
 
     if not os.path.exists(readme_path):
