@@ -13,8 +13,8 @@
   },
   {
     "name": "ShadowMount+",
-    "filename": "ShadowMountPlus_1.7beta4.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta4.elf",
+    "filename": "ShadowMount+_1.7beta4.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMount+_1.7beta4.elf",
     "source": "https://github.com/drakmor/ShadowMountPlus/releases",
     "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/ShadowMountPlus_1.7beta4.zip",
     "extract_file": "shadowmountplus.elf",
@@ -146,8 +146,8 @@
   },
   {
     "name": "APR-Emu-Updater",
-    "filename": "APR_Emu_Updater_v2.0.6.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/APR Emu Updater_v2.0.6.elf",
+    "filename": "APR-Emu-Updater_v2.0.6.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/APR-Emu-Updater_v2.0.6.elf",
     "source": "https://github.com/tsuramatsu1/apr-emu-updater",
     "source_direct": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
     "description": "PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console.",

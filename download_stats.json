@@ -394,5 +394,9 @@
   "APR.Emu.Updater_v2.0.6.elf": {
     "download_count": 0,
     "deleted_at": "2026-10-05"
+  },
+  "ShadowMountPlus_1.7beta4.elf": {
+    "download_count": 1,
+    "deleted_at": "2026-10-05"
   }
 }
