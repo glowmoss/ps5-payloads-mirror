@@ -95,7 +95,17 @@
     "version": "v0.5.2",
     "category": "Utilities & Tools",
     "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
-  },
+  },  
+  {
+    "name": "A53 Ppr Install 1140",
+    "filename": "a53_ppr_install_1140_20.09.elf",
+    "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
+    "source": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
+    "description": "Needed for FPKGs on 11.40",
+    "last_update": "2025-07-14",
+    "version": "v20.09",
+    "checksum": ""
+  }
   {
     "name": "PKG-Manager",
     "filename": "PKG-Manager_v1.4.1.elf",
