@@ -1,15 +1,39 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v6.2.1.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.2.1.elf",
+    "filename": "ps5upload_v6.4.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.4.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.2.1/ps5upload-6.2.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.4.0/ps5upload-6.4.0.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-10-06",
-    "version": "v6.2.1",
+    "last_update": "2026-10-08",
+    "version": "v6.4.0",
     "category": "Networking & Servers",
-    "checksum": "eb0bf3b9f5c0004cecc5e2c43dbd3d0749fa6e032a9a4b0343c115d79fb10a96"
+    "checksum": "b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70"
+  },
+  {
+    "name": "onionHEN",
+    "filename": "onionHEN_v0.9.0-beta2.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0-beta2.elf",
+    "source": "https://github.com/aydencharles/onionHEN/releases",
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
+    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
+    "last_update": "2026-10-07",
+    "version": "v0.9.0-beta2",
+    "category": "System & Jailbreak",
+    "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
+  },
+  {
+    "name": "WebKit-Autoloader-Installer",
+    "filename": "WebKit-Autoloader-Installer_v0.6.0-pre-4488577.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.6.0-pre-4488577.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.0-pre-4488577/webkit-autoloader-installer_v0.6.0-pre-4488577.elf",
+    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
+    "last_update": "2026-10-07",
+    "version": "v0.6.0-pre-4488577",
+    "category": "Loaders",
+    "checksum": "7b7e2284c331599a6193cb00fa7d5fd227d784ef95ceda32b1485989ff1d6b21"
   },
   {
     "name": "ShadowMount+",
@@ -23,18 +47,6 @@
     "version": "1.7beta4",
     "category": "Utilities & Tools",
     "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
-  },
-  {
-    "name": "onionHEN",
-    "filename": "onionHEN_v0.9.0-beta1.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0-beta1.elf",
-    "source": "https://github.com/aydencharles/onionHEN/releases",
-    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta1/OnionHEN.elf",
-    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-    "last_update": "2026-10-03",
-    "version": "v0.9.0-beta1",
-    "category": "System & Jailbreak",
-    "checksum": "c587a0e92158d0a64f1c78e10a9743709b3ab194bee2d4cf8ffdd3147c3a7530"
   },
   {
     "name": "ps5-app-dumper",
@@ -59,18 +71,6 @@
     "version": "v0.17.2",
     "category": "Utilities & Tools",
     "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
-  },
-  {
-    "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.5.2.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.5.2.elf",
-    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
-    "last_update": "2026-09-30",
-    "version": "v0.5.2",
-    "category": "Loaders",
-    "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
   },
   {
     "name": "pegasus-dl",
