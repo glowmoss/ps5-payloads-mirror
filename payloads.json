@@ -24,6 +24,18 @@
     "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
   },
   {
+    "name": "Orbit-Store",
+    "filename": "orbit_store.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/orbit_store.elf",
+    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "description": "A modern, no-BS download manager for PS5.",
+    "last_update": "2026-10-07",
+    "version": "v0.0",
+    "category": "Utilities & Tools",
+    "checksum": ""
+  },
+  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.6.0-pre-4488577.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.6.0-pre-4488577.elf",
