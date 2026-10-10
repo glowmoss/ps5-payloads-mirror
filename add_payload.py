@@ -228,10 +228,7 @@ def add_payload():
         if extract_file:
             new_item["extract_file"] = extract_file
         
-        payloads.append(new_item)
-        payloads.sort(key=lambda x: x.get("last_update", ""), reverse=True)
-        payloads = [reorder_item(p) for p in payloads]
-        
+        payloads.append(new_item)        
         with open(JSON_FILE, "w") as f:
             json.dump(payloads, f, indent=2)
             
