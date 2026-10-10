@@ -446,5 +446,25 @@
   "ps5upload_v6.5.2.elf": {
     "download_count": 0,
     "deleted_at": "2026-10-10"
+  },
+  "CheatRunner_v0.17.2.elf": {
+    "download_count": 1,
+    "deleted_at": "2026-10-10"
+  },
+  "Orbit-Store_v1.0.5.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-10"
+  },
+  "PKG-Manager_v1.5.0.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-10"
+  },
+  "ps5upload_v6.7.4.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-10"
+  },
+  "ShadowMount+_1.7beta4.elf": {
+    "download_count": 2,
+    "deleted_at": "2026-10-10"
   }
 }
