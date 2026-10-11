@@ -7,8 +7,8 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
+| **ps5upload** | `v7.0.1` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-11` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v7.0.1.elf) |
 | **ShadowMount+** | `1.7beta5` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-10` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMount+_1.7beta5.elf) |
-| **ps5upload** | `v6.8.2` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-10` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.8.2.elf) |
 | **Orbit-Store** | `v1.1.0` | A modern, no-BS download manager for PS5. | `2026-10-10` | [Source](https://github.com/saawant12/orbit-store-ps5/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.1.0.elf) |
 | **PKG-Manager** | `v1.5.1` | Browse and install PKGs from USB, disc, or SMB shares directly on your PS5 | `2026-10-10` | [Source](https://github.com/itsPLK/ps5-pkg-manager/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.5.1.elf) |
 | **CheatRunner** | `v0.18` | Web-based game cheat trainer | `2026-10-10` | [Source](https://github.com/notmaj0r/CheatRunner/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.18.elf) |
