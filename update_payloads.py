@@ -41,7 +41,6 @@ def get_latest_release(domain, owner, repo):
             cmd = ["gh", "api", f"repos/{owner}/{repo}/releases"]
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
             release = json.loads(result.stdout)
-            print(release)
             if release:
                 return release[0]
             return None
