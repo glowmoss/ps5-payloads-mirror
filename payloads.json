@@ -1,5 +1,29 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v7.0.23.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v7.0.23.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.23/ps5upload-7.0.23.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-10-15",
+    "version": "v7.0.23",
+    "category": "Networking & Servers",
+    "checksum": "419b56a10336dda8f4a28672271dfb635e74b05966cc08d44305e70f862dc110"
+  },
+  {
+    "name": "onionHEN",
+    "filename": "onionHEN_v0.9.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0.elf",
+    "source": "https://github.com/aydencharles/onionHEN/releases",
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
+    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
+    "last_update": "2026-10-15",
+    "version": "v0.9.0",
+    "category": "System & Jailbreak",
+    "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
+  },
+  {
     "name": "Orbit-Store",
     "filename": "Orbit-Store_v1.3.5.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.3.5.elf",
@@ -22,18 +46,6 @@
     "version": "v0.6.1",
     "category": "Utilities & Tools",
     "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v7.0.22.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v7.0.22.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.22/ps5upload-7.0.22.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-10-12",
-    "version": "v7.0.22",
-    "category": "Networking & Servers",
-    "checksum": "e382353612fdf85b2fdbfea75f4f5ebad260c767faa51b0446118646a6db0267"
   },
   {
     "name": "ShadowMount+",
@@ -95,18 +107,6 @@
     "version": "v0.6.1",
     "category": "Loaders",
     "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
-  },
-  {
-    "name": "onionHEN",
-    "filename": "onionHEN_v0.9.0-beta2.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0-beta2.elf",
-    "source": "https://github.com/aydencharles/onionHEN/releases",
-    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
-    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-    "last_update": "2026-10-07",
-    "version": "v0.9.0-beta2",
-    "category": "System & Jailbreak",
-    "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
   },
   {
     "name": "ps5-app-dumper",
