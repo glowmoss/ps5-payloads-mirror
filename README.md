@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v7.0.25` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-15` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v7.0.25.elf) |
+| **ps5upload** | `v7.0.26` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-16` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v7.0.26.elf) |
 | **onionHEN** | `v0.9.0` | A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN | `2026-10-15` | [Source](https://github.com/aydencharles/onionHEN/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.9.0.elf) |
 | **Orbit-Store** | `v1.3.5` | A modern, no-BS download manager for PS5. | `2026-10-14` | [Source](https://github.com/saawant12/orbit-store-ps5/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.3.5.elf) |
 | **pldmgr** | `v0.6.1` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-10-14` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.6.1.elf) |
