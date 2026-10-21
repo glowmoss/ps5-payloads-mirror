@@ -614,5 +614,13 @@
   "ShadowMount+_1.7beta6-fix2.elf": {
     "download_count": 0,
     "deleted_at": "2026-10-21"
+  },
+  "elfldr_v0.26.elf": {
+    "download_count": 1,
+    "deleted_at": "2026-10-21"
+  },
+  "ps5upload_v7.1.11.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-21"
   }
 }
