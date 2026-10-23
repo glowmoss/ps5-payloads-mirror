@@ -12,6 +12,18 @@
     "checksum": "c5e68afd6c3101a50b6a425350a7d3fec9ab5049cf8bed9ced53f4548598da07"
   },
   {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.15-beta1.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta1.elf",
+    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta1/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-10-23",
+    "version": "v1.15-beta1",
+    "category": "Utilities & Tools",
+    "checksum": "9777e49916968b5327be9d3799d25f1d3b810d3c853c448d38c8bbd120124787"
+  },
+  {
     "name": "Orbit-Store",
     "filename": "Orbit-Store_v1.4.0.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.4.0.elf",
@@ -35,18 +47,6 @@
     "version": "1.7beta7",
     "category": "Utilities & Tools",
     "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
-  },
-  {
-    "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.14.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.14.elf",
-    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.14/garlic-savemgr.elf",
-    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-10-21",
-    "version": "v1.14",
-    "category": "Utilities & Tools",
-    "checksum": "57763da9d36ae1cb0c744e90a59a06cb54e4eae0c9a8dec62ce774f892c624b9"
   },
   {
     "name": "elfldr",
