@@ -678,5 +678,13 @@
   "ps5upload_v7.5.2.elf": {
     "download_count": 0,
     "deleted_at": "2026-10-25"
+  },
+  "ps5upload_v7.5.3.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-26"
+  },
+  "ShadowMount+_1.7beta7.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-10-26"
   }
 }
