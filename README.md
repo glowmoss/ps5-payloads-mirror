@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v8.5.0` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-27` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v8.5.0.elf) |
+| **ps5upload** | `v8.5.1` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-27` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v8.5.1.elf) |
 | **ShadowMount+** | `1.7beta8` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-26` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMount+_1.7beta8.elf) |
 | **Orbit-Store** | `v1.7.0` | A modern, no-BS download manager for PS5. | `2026-10-26` | [Source](https://github.com/saawant12/orbit-store-ps5/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.7.0.elf) |
 | **garlic-savemgr** | `v1.15-beta1` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-10-23` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta1.elf) |
