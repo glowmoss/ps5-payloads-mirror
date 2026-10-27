@@ -13,16 +13,16 @@
   },
   {
     "name": "ShadowMount+",
-    "filename": "ShadowMount+_1.7beta8.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMount+_1.7beta8.elf",
+    "filename": "ShadowMount+_1.7beta9.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMount+_1.7beta9.elf",
     "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta8/ShadowMountPlus_1.7beta8.zip",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta9/ShadowMountPlus_1.7beta9.zip",
     "extract_file": "shadowmountplus.elf",
     "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-    "last_update": "2026-10-26",
-    "version": "1.7beta8",
+    "last_update": "2026-10-27",
+    "version": "1.7beta9",
     "category": "Utilities & Tools",
-    "checksum": "7163472217a2390f5bcbe3b61a96963976f7b7bd84d960b8d926f35b9cbecf28"
+    "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2"
   },
   {
     "name": "Orbit-Store",
