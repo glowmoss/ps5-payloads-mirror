@@ -1,5 +1,17 @@
 [
   {
+    "name": "WebKit-Autoloader-Installer",
+    "filename": "WebKit-Autoloader-Installer_v0.6.2.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.6.2.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.2/webkit-autoloader-installer_v0.6.2.elf",
+    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
+    "last_update": "2026-10-28",
+    "version": "v0.6.2",
+    "category": "Loaders",
+    "checksum": "27fd335764270716972faea399a5cc7810b9e49a21abf4966d9759580756cb19"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v8.5.1.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v8.5.1.elf",
@@ -119,18 +131,6 @@
     "version": "v1.11.0",
     "category": "Installer",
     "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
-  },
-  {
-    "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.6.1.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.6.1.elf",
-    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
-    "last_update": "2026-10-08",
-    "version": "v0.6.1",
-    "category": "Loaders",
-    "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
   },
   {
     "name": "ps5-app-dumper",
