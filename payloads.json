@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v9.7.0.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v9.7.0.elf",
+    "filename": "ps5upload_v9.11.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v9.11.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v9.7.0/ps5upload-9.7.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v9.11.0/ps5upload-9.11.0.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-10-30",
-    "version": "v9.7.0",
+    "version": "v9.11.0",
     "category": "Networking & Servers",
-    "checksum": "dcbbf088c09b45a170600f8ac0e0c890731b85124ecbf1aae144c7149a7b4947"
+    "checksum": "ea961717fb823398dbf346a215cab21aba8cf7a966fb8be53b9d48e75543bdd9"
   },
   {
     "name": "Orbit-Store",
