@@ -814,5 +814,13 @@
   "ps5upload_v10.7.0.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-02"
+  },
+  "Orbit-Store_v1.8.3.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-02"
+  },
+  "ps5upload_v10.7.2.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-02"
   }
 }
