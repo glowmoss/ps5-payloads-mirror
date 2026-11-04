@@ -12,6 +12,30 @@
     "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e"
   },
   {
+    "name": "Orbit-Store",
+    "filename": "Orbit-Store_v1.8.5.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.8.5.elf",
+    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.5/orbit_store.elf",
+    "description": "A modern, no-BS download manager for PS5.",
+    "last_update": "2026-11-04",
+    "version": "v1.8.5",
+    "category": "Utilities & Tools",
+    "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77"
+  },
+  {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.15-beta2.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta2.elf",
+    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta2/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-11-04",
+    "version": "v1.15-beta2",
+    "category": "Utilities & Tools",
+    "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3"
+  },
+  {
     "name": "CheatRunner",
     "filename": "CheatRunner_v0.18.1.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.18.1.elf",
@@ -22,18 +46,6 @@
     "version": "v0.18.1",
     "category": "Utilities & Tools",
     "checksum": "80535260027983f09fc9d131e11e13591de61ef5eeea458825598263862d2ce8"
-  },
-  {
-    "name": "Orbit-Store",
-    "filename": "Orbit-Store_v1.8.4.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.8.4.elf",
-    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.4/orbit_store.elf",
-    "description": "A modern, no-BS download manager for PS5.",
-    "last_update": "2026-11-02",
-    "version": "v1.8.4",
-    "category": "Utilities & Tools",
-    "checksum": "a2ece507fdc835d72671820a6da30c3e2f92391a85da10e5f14130b5dbc2c596"
   },
   {
     "name": "WebKit-Autoloader-Installer",
@@ -59,18 +71,6 @@
     "version": "1.7beta11",
     "category": "Utilities & Tools",
     "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
-  },
-  {
-    "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta1.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta1.elf",
-    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta1/garlic-savemgr.elf",
-    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-10-23",
-    "version": "v1.15-beta1",
-    "category": "Utilities & Tools",
-    "checksum": "9777e49916968b5327be9d3799d25f1d3b810d3c853c448d38c8bbd120124787"
   },
   {
     "name": "elfldr",

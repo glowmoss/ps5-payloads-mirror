@@ -846,5 +846,13 @@
   "ps5upload_v11.0.4.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-04"
+  },
+  "garlic-savemgr_v1.15-beta1.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-04"
+  },
+  "Orbit-Store_v1.8.4.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-04"
   }
 }
