@@ -1,27 +1,27 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v11.1.0.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.1.0.elf",
+    "filename": "ps5upload_v11.2.3.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.2.3.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.1.0/ps5upload-11.1.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.3/ps5upload-11.2.3.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-11-05",
-    "version": "v11.1.0",
+    "version": "v11.2.3",
     "category": "Networking & Servers",
-    "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b"
+    "checksum": "0a0fd1cd7946e5bd364dfaaadc0e7b01c35c33fd48302385378ff743646b129a"
   },
   {
     "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta5.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta5.elf",
+    "filename": "garlic-savemgr_v1.15-beta7.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta7.elf",
     "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta5/garlic-savemgr.elf",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta7/garlic-savemgr.elf",
     "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
     "last_update": "2026-11-05",
-    "version": "v1.15-beta5",
+    "version": "v1.15-beta7",
     "category": "Utilities & Tools",
-    "checksum": "5475b1d671fb185f1ec0eb21036dfed9afdd38b66f75068c6cd3b1d5bc185aa8"
+    "checksum": "b38bcbeeb918fea0a70ce11a4f4ca7ca6bd589931bb8b3abb30d99c9ae3adda9"
   },
   {
     "name": "Orbit-Store",
