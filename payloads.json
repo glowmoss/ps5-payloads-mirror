@@ -1,15 +1,27 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v11.0.8.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.0.8.elf",
+    "filename": "ps5upload_v11.1.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.1.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.0.8/ps5upload-11.0.8.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.1.0/ps5upload-11.1.0.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-04",
-    "version": "v11.0.8",
+    "last_update": "2026-11-05",
+    "version": "v11.1.0",
     "category": "Networking & Servers",
-    "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e"
+    "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b"
+  },
+  {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.15-beta5.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta5.elf",
+    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta5/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-11-05",
+    "version": "v1.15-beta5",
+    "category": "Utilities & Tools",
+    "checksum": "5475b1d671fb185f1ec0eb21036dfed9afdd38b66f75068c6cd3b1d5bc185aa8"
   },
   {
     "name": "Orbit-Store",
@@ -22,18 +34,6 @@
     "version": "v1.8.5",
     "category": "Utilities & Tools",
     "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77"
-  },
-  {
-    "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta2.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta2.elf",
-    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta2/garlic-savemgr.elf",
-    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-11-04",
-    "version": "v1.15-beta2",
-    "category": "Utilities & Tools",
-    "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3"
   },
   {
     "name": "CheatRunner",
