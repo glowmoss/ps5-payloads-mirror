@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v11.2.6.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.2.6.elf",
+    "filename": "ps5upload_v11.2.8.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.2.8.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.6/ps5upload-11.2.6.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.8/ps5upload-11.2.8.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-11-06",
-    "version": "v11.2.6",
+    "version": "v11.2.8",
     "category": "Networking & Servers",
-    "checksum": "c0a549d34b9bd9c307aeca7eb211edea58c8a10142cd892e1f72fea7bfe7dcac"
+    "checksum": "a76ae6f70ee8cb0b536ee39f60855cee627a01f33271699020ee35989a9a8f37"
   },
   {
     "name": "garlic-savemgr",
@@ -22,6 +22,18 @@
     "version": "v1.15-beta12",
     "category": "Utilities & Tools",
     "checksum": "52ada30119d4f40800047f6bb8ece2beb15f836b3f3c74fda100e80fb54da30e"
+  },
+  {
+    "name": "WebKit-Autoloader-Installer",
+    "filename": "WebKit-Autoloader-Installer_v0.7.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.0.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
+    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
+    "last_update": "2026-11-06",
+    "version": "v0.7.0",
+    "category": "Loaders",
+    "checksum": "10cb38baae078e41f252cffb0d356829c89ee63fd3234f1fd1e6b19f81eab1c7"
   },
   {
     "name": "Orbit-Store",
@@ -46,18 +58,6 @@
     "version": "v0.18.1",
     "category": "Utilities & Tools",
     "checksum": "80535260027983f09fc9d131e11e13591de61ef5eeea458825598263862d2ce8"
-  },
-  {
-    "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.7.0-prerelease-2.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.0-prerelease-2.elf",
-    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.7.0-prerelease-2/webkit-autoloader-installer_v0.7.0-dev-3a34c3b.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
-    "last_update": "2026-10-31",
-    "version": "v0.7.0-prerelease-2",
-    "category": "Loaders",
-    "checksum": "2a202023ee9ef4c742c3dc05d872c679c3570ca28e50c668b4b2e86c732d27b1"
   },
   {
     "name": "ShadowMount+",
