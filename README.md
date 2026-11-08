@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v11.5.0` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-07` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.5.0.elf) |
+| **ps5upload** | `v11.5.2` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-07` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.5.2.elf) |
 | **garlic-savemgr** | `v1.15-beta12` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-06` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta12.elf) |
 | **WebKit-Autoloader-Installer** | `v0.7.0` | Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60) | `2026-11-06` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.0.elf) |
 | **Orbit-Store** | `v1.8.5` | A modern, no-BS download manager for PS5. | `2026-11-04` | [Source](https://github.com/saawant12/orbit-store-ps5/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.8.5.elf) |
