@@ -930,5 +930,13 @@
   "WebKit-Autoloader-Installer_v0.7.0.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-08"
+  },
+  "ps5upload_v11.6.0.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-08"
+  },
+  "ShadowMount+_1.7beta11.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-08"
   }
 }
