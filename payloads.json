@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.3.0.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.3.0.elf",
+    "filename": "ps5upload_v12.4.2.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.3.0/ps5upload-12.3.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.2/ps5upload-12.4.2.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-11-09",
-    "version": "v12.3.0",
+    "version": "v12.4.2",
     "category": "Networking & Servers",
-    "checksum": "68f6baf099d68062632220c64a048fae59d54a5babed14a73c55c993ac283d33"
+    "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef"
   },
   {
     "name": "garlic-savemgr",
