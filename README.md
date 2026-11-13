@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v12.4.13` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-12` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.13.elf) |
+| **ps5upload** | `v12.4.14` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-12` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.14.elf) |
 | **onionHEN** | `nightly` | A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN | `2026-11-12` | [Source](https://github.com/aydencharles/onionHEN/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_nightly.elf) |
 | **garlic-savemgr** | `v1.15-beta23` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-11` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta23.elf) |
 | **WebKit-Autoloader-Installer** | `v0.7.1` | Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60) | `2026-11-08` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.1.elf) |
