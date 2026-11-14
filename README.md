@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v12.4.17` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-13` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.17.elf) |
+| **ps5upload** | `v12.4.18` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-14` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.18.elf) |
 | **Orbit-Store** | `v1.9.0` | A modern, no-BS download manager for PS5. | `2026-11-13` | [Source](https://github.com/saawant12/orbit-store-ps5/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.9.0.elf) |
 | **onionHEN** | `nightly` | A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN | `2026-11-12` | [Source](https://github.com/aydencharles/onionHEN/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_nightly.elf) |
 | **garlic-savemgr** | `v1.15-beta23` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-11` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta23.elf) |
