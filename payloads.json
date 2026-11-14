@@ -12,6 +12,18 @@
     "checksum": "f145f543338cab0b5f67946d1b98c4cc2dab1ca6e898f088da41e525fb0c6903"
   },
   {
+    "name": "Orbit-Store",
+    "filename": "Orbit-Store_v1.9.0.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.9.0.elf",
+    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.0/orbit_store.elf",
+    "description": "A modern, no-BS download manager for PS5.",
+    "last_update": "2026-11-13",
+    "version": "v1.9.0",
+    "category": "Utilities & Tools",
+    "checksum": "4d2b78ad4c0de1211b93664d5401beb1e19e54452fccc74886d4cb63b659439a"
+  },
+  {
     "name": "onionHEN",
     "filename": "onionHEN_nightly.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_nightly.elf",
@@ -59,18 +71,6 @@
     "version": "1.7beta12",
     "category": "Utilities & Tools",
     "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd"
-  },
-  {
-    "name": "Orbit-Store",
-    "filename": "Orbit-Store_v1.8.5.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.8.5.elf",
-    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.5/orbit_store.elf",
-    "description": "A modern, no-BS download manager for PS5.",
-    "last_update": "2026-11-04",
-    "version": "v1.8.5",
-    "category": "Utilities & Tools",
-    "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77"
   },
   {
     "name": "CheatRunner",
