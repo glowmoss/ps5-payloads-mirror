@@ -1018,5 +1018,9 @@
   "ps5upload_v12.4.17.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-14"
+  },
+  "ps5upload_v12.4.18.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-14"
   }
 }
