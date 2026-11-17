@@ -1054,5 +1054,13 @@
   "ps5upload_v12.5.1.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-17"
+  },
+  "ps5upload_v12.6.1.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-17"
+  },
+  "WebKit-Autoloader-Installer_v0.8.0-pre-627ba8c.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-17"
   }
 }
