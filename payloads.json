@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.6.4.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.4.elf",
+    "filename": "ps5upload_v12.6.7.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.7.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.4/ps5upload-12.6.4.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.7/ps5upload-12.6.7.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-17",
-    "version": "v12.6.4",
+    "last_update": "2026-11-18",
+    "version": "v12.6.7",
     "category": "Networking & Servers",
-    "checksum": "ef80322b107474dd3c1d5cdc8bc34de8b686da81268e0186ce5cd2b654bf44f7"
+    "checksum": "8ab0e3eb842624c103acae831cc72190bdb22f92b359c93ed185ca754ee450f7"
   },
   {
     "name": "WebKit-Autoloader-Installer",
