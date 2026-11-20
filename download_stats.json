@@ -1102,5 +1102,13 @@
   "WebKit-Autoloader-Installer_v0.8.0-pre-0850478.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-20"
+  },
+  "ps5upload_v12.6.13.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
+  },
+  "WebKit-Autoloader-Installer_v0.8.0.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
   }
 }
