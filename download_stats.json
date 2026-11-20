@@ -1110,5 +1110,13 @@
   "WebKit-Autoloader-Installer_v0.8.0.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-20"
+  },
+  "garlic-savemgr_v1.15-beta23.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
+  },
+  "ps5upload_v12.6.14.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
   }
 }
