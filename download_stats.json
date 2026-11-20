@@ -1086,5 +1086,21 @@
   "ps5upload_v12.6.11.elf": {
     "download_count": 0,
     "deleted_at": "2026-11-19"
+  },
+  "elfldr_v0.27.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
+  },
+  "Orbit-Store_v1.9.2.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
+  },
+  "ps5upload_v12.6.12.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
+  },
+  "WebKit-Autoloader-Installer_v0.8.0-pre-0850478.elf": {
+    "download_count": 0,
+    "deleted_at": "2026-11-20"
   }
 }
