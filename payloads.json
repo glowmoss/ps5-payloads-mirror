@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v12.6.21.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.21.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.21/ps5upload-12.6.21.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-11-22",
+    "version": "v12.6.21",
+    "category": "Networking & Servers",
+    "checksum": "a6766a847adcf9b60011b95fa775ec35b58fd32a2fa5c0259019074366de1aae"
+  },
+  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.8.3.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.8.3.elf",
@@ -22,18 +34,6 @@
     "version": "v1.9.6",
     "category": "Utilities & Tools",
     "checksum": "8a73e1265984589b7b8835f8b3c5c786c5edf753964dfc614687cdf57f0c7146"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v12.6.17.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.17.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.17/ps5upload-12.6.17.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-20",
-    "version": "v12.6.17",
-    "category": "Networking & Servers",
-    "checksum": "2bf4c7ebee49c06e0517040a68f6e6458826bcaca49f435c6151aeb108c65ee4"
   },
   {
     "name": "garlic-savemgr",
