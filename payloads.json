@@ -12,6 +12,18 @@
     "checksum": "f4b0dee9af572ea1cb77aaf1e6fc5bf8ef520fc0a0a30753dd94a5cbdc04dd8e"
   },
   {
+    "name": "Orbit-Store",
+    "filename": "Orbit-Store_v1.9.6.elf",
+    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.9.6.elf",
+    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.6/orbit_store.elf",
+    "description": "A modern, no-BS download manager for PS5.",
+    "last_update": "2026-11-21",
+    "version": "v1.9.6",
+    "category": "Utilities & Tools",
+    "checksum": "8a73e1265984589b7b8835f8b3c5c786c5edf753964dfc614687cdf57f0c7146"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v12.6.17.elf",
     "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.17.elf",
@@ -34,18 +46,6 @@
     "version": "v2.0",
     "category": "Utilities & Tools",
     "checksum": "805902a1ef3d54854850518b11602e0ab973192e0338fc30b28a3a9e4aae5be6"
-  },
-  {
-    "name": "Orbit-Store",
-    "filename": "Orbit-Store_v1.9.5.elf",
-    "url": "https://github.com/glowmoss/ps5-payloads-mirror/releases/download/payloads-mirror/Orbit-Store_v1.9.5.elf",
-    "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-    "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.5/orbit_store.elf",
-    "description": "A modern, no-BS download manager for PS5.",
-    "last_update": "2026-11-19",
-    "version": "v1.9.5",
-    "category": "Utilities & Tools",
-    "checksum": "95da321dcfa054fe355e1d820e50163b3ee4da1410a9a2aa72213d7626b2d3b9"
   },
   {
     "name": "elfldr",
